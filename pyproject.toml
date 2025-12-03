@@ -1,0 +1,13 @@
+[project]
+name = "download-models"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub>=1.1.7",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "kaggle>=1.8.2",
+    "kagglehub>=0.3.13",
+]
