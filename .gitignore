@@ -247,3 +247,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,windows,linux
 
 model
+model_cache
+*.tgz

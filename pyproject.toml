@@ -10,4 +10,5 @@ dependencies = [
     "ipywidgets>=8.1.8",
     "kaggle>=1.8.2",
     "kagglehub>=0.3.13",
+    "langchain-ollama>=1.0.0",
 ]
